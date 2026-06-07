@@ -117,6 +117,7 @@ Wait ~15 seconds for the healthcheck to pass. The Neo4j Browser is available at 
 ```bash
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
+If above command to activate virtual env failes, then run this command: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass 
 pip install -r requirements.txt
 ```
 
