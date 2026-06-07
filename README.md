@@ -184,3 +184,8 @@ Highly connected nodes (e.g. a generic "Technology" category) appear in almost e
 | `google-generativeai` | Underlying Google AI SDK |
 | `neo4j` | Bolt driver for Neo4j |
 | `python-dotenv` | `.env` file loading |
+
+## Output
+
+<img width="1248" height="422" alt="image" src="https://github.com/user-attachments/assets/50b44a23-0cab-4e93-9ad1-b58e0f567deb" />
+
